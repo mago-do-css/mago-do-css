@@ -1,4 +1,5 @@
-## Hi there 👋
+##𖤐 Welcome to Year Zero 𖤐
+## Olá, sou o Mago.
 
 <!--
 **mago-do-css/mago-do-css** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
