@@ -1,4 +1,3 @@
-##𖤐 Welcome to Year Zero 𖤐
 ## Olá, sou o Mago.
 
 <!--
